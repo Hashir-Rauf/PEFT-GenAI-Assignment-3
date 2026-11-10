@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Training outputs and checkpoints
+tmp_out/
+tmp_dbg/
+outputs/
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# Hugging Face and local caches
+.cache/
+hf_cache/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Office lock files and OS files
+~$*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+,Real,Fake,total
+train,346,279,625
+val,74,60,134
+test,75,60,135
